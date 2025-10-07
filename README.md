@@ -1,9 +1,8 @@
 # Thronefall Multiplayer
 
-## ARCHIVE NOTICE
-This repository is currently archived due to having no time to maintain it on my end.
-I invite anyone to fork it, release their own version and do whatever they want with it as long as they give credit.
-There are currently no plans on my end to come back to this but that may change.
+## Credits
+This multiplayer mod uses MunWolf's outdated mod as a base and is my attempt to make multiplayer viable again in the newer versions of Thronefall.
+You can find the origional multiplayer mod (which nolonger works in current versions of the game) here: https://github.com/MunWolf/thronefall_multiplayer
 
 ## Information
 This is the development repository for the WIP Thronefall Multiplayer mod.
